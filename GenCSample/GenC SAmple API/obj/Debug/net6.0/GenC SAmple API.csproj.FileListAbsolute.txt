@@ -1,0 +1,27 @@
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\appsettings.json
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\GenC SAmple API.exe
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\GenC SAmple API.deps.json
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\GenC SAmple API.runtimeconfig.json
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\GenC SAmple API.dll
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\GenC SAmple API.pdb
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.csproj.AssemblyReference.cache
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.AssemblyInfoInputs.cache
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.AssemblyInfo.cs
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.csproj.CoreCompileInputs.cache
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\scopedcss\bundle\GenC SAmple API.styles.css
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.csproj.CopyComplete
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.dll
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\refint\GenC SAmple API.dll
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.pdb
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\GenC SAmple API.genruntimeconfig.cache
+C:\Users\hashi\source\Repos\GencSample\GenCSample\GenC SAmple API\obj\Debug\net6.0\ref\GenC SAmple API.dll
